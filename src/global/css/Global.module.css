@@ -1,0 +1,23 @@
+.button {
+    border-radius:5px;
+    border:0;
+    width:7vw;
+    height:3vh;
+    font-size: 0.9rem;
+    color: rgb(74, 73, 73);
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.textFields {
+    border-radius:5px;
+    border:0;
+    height:2vh;
+    font-size:1rem;
+    padding: 0.9%;
+}
+
+.formTitles {
+    font-size: 1rem;
+    font-weight: 400;
+}
